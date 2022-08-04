@@ -3,8 +3,8 @@ module.exports = {
   theme: {
     extend: {},
     colors: {
-      pri: "#66ccff",
-      sub: "#77ddff",
+      pri: "#eeeeee",
+      sub: "#cccccc",
     },
   },
   plugins: [],
